@@ -1,0 +1,21 @@
+{
+  "name": "collisionv3",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "collisionv3.html",
+    "path": "",
+    "menuName": {
+      "en": "collisionv3"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "collisionv3",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
